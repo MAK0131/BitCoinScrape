@@ -1,4 +1,4 @@
 antiorm==1.2.1
 db==0.1.1
 db-sqlite3==0.0.1
-urllib3==1.25.3
+urllib3==1.25.8
